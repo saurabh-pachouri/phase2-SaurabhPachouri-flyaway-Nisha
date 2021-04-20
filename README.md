@@ -1,12 +1,5 @@
 # phase2-SaurabhPachouri-flyaway-Nisha
 Flyaway Ticket Booking App in JAVA - Servlet&JSP
-Table of contents
-General info
-Using the application
-Technologies
-Demo
-Setup
-Coming Up
 General info
 A small flight booking demo project in JAVA
 
